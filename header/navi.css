@@ -1,0 +1,10 @@
+.one{
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  background: black;
+}
+
+.three{
+  text-align: center;
+}
