@@ -1,5 +1,5 @@
 h1{
-  font-size: 50px;
+  font-size: 200px;
   font-weight: 100;
-  border-bottom:rgb(245, 245, 0);
+  background: linear-gradient(transparent 70%,yellow 30%);
 }
